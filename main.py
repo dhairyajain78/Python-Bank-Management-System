@@ -17,7 +17,6 @@ while True:
     "7. Check Balance \n"    
     "8. Update Account \n"   
     "9. Delete Account \n"   
-    # "10. Mini Statement \n"    
     "10. Richest Account \n"    
     "11. Low Balance Accounts \n"    
     "12. Total Bank Balance  \n"   
@@ -45,8 +44,6 @@ while True:
         bank.update()
     elif ch==9:
         bank.delete()
-    # elif ch==10:
-    #     bank.statement()
     elif ch==10:
         bank.richestAcc()
     elif ch==11:
