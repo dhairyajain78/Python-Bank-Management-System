@@ -1,4 +1,4 @@
-# 🏦 Bank Management System (Python)
+# Bank Management System (Python)
 
 A console-based Bank Management System built using Python and JSON file storage.
 
@@ -6,7 +6,7 @@ This project simulates basic banking operations such as account creation, deposi
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Account Management
 - Create New Account
@@ -34,7 +34,7 @@ This project simulates basic banking operations such as account creation, deposi
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python 3
 - JSON
@@ -43,7 +43,7 @@ This project simulates basic banking operations such as account creation, deposi
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Bank-Management-System/
 │
@@ -56,7 +56,7 @@ Bank-Management-System/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository
 
