@@ -8,7 +8,7 @@ from bank import Bank
 bank=Bank()
 while True:
     print("\n___________BANK MANAGEMENT SYSTEM___________")
-    print("1. Create Account \n"   #done
+    print("1. Create Account \n"   
     "2. View Accounts \n"   
     "3. Search Account \n"   
     "4. Deposit Money \n"    
@@ -20,7 +20,7 @@ while True:
     "10. Richest Account \n"    
     "11. Low Balance Accounts \n"    
     "12. Total Bank Balance  \n"   
-    "13. Add Interest \n"  #done
+    "13. Add Interest \n"  
     "14. Get Account Trasaction History (Statement)\n"   
     "15. Get Particular Transaction Details\n"
     "16. Exit\n") 
